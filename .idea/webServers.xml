@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b9bafa5c-ef1e-4dd3-8593-9a8712494bd8" name="phpConnection" url="http://34.244.195.163">
+        <fileTransfer host="34.244.195.163" port="22" privateKey="C:\Users\Richard\Desktop\Enterprise\EnterpriseCoursework\VM Key\EnterpriseWeb.pem" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
